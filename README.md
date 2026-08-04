@@ -22,4 +22,3 @@ Inspired by my experience at Vanderbilt Summer Academy, I researched how particl
 
 ## View the Website
 
-GitHub Pages: *(Add your website link here after you publish it.)*
