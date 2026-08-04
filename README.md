@@ -20,5 +20,3 @@ Inspired by my experience at Vanderbilt Summer Academy, I researched how particl
 - CSS
 - JavaScript
 
-## View the Website
-
